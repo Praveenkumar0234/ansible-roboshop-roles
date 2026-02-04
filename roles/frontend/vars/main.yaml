@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.nasika.shop
+USER_HOST: user.nasika.shop
+CART_HOST: cart.nasika.shop
+SHIPPING_HOST: shipping.nasika.shop
+PAYMENT_HOST: payment.nasika.shop

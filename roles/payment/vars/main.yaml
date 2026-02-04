@@ -1,0 +1,3 @@
+CART_HOST: cart.nasika.shop
+USER_HOST: user.nasika.shop
+RABBITMQ_HOST: rabbitmq.nasika.shop

@@ -1,0 +1,2 @@
+REDIS_HOST: redis.nasika.shop
+MONGODB_HOST: mongodb.nasika.shop
