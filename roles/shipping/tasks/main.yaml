@@ -5,7 +5,7 @@
 
 - name: maven setup
   include_role: 
-    name: commoon
+    name: common
     tasks_from: maven
 
 
